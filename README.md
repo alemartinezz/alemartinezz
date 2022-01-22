@@ -6,4 +6,4 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 ### Connect with me:
 [<img align="left" alt="alemartinezz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/alemartinezz)
-[<img align="left" alt="alemartinezz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://twitter.com/chapochamade]
+[<img align="left" alt="alemartinezz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiwtter.svg" />](https://twitter.com/chapochamade)
