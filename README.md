@@ -8,6 +8,7 @@
 [<img align="left" alt="alemartinezz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/chapochamade)
 <br />
 ### Languages and Tools:
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />]()
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />]()
