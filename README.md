@@ -6,9 +6,11 @@ I'm a Developer, Independent and lifelong learner!
 
 **About me**
 
-- 🔭 I’m currently working on a cryptocurriencies exchange project [MiCrypto.uy](https://micrypto.uy/)
+- 💼 FullStack Dev at [eFinanzas](https://efinanzas.com/)
 
-- 🌱 I’m currently learning [Rust](https://github.com/alemartinezz?tab=repositories&q=rust&type=&language=&sort=) and [React](https://github.com/alemartinezz?tab=repositories&q=react&type=&language=&sort=)
+- 🔭 Working on a new cryptocurriencies platform project [MiCrypto.uy](https://micrypto.uy/)
+
+- 👨🏻‍💻 Currently learning [Rust](https://github.com/alemartinezz?tab=repositories&q=rust&type=&language=&sort=) and [React](https://github.com/alemartinezz?tab=repositories&q=react&type=&language=&sort=)
 
 - 🚀 Interested in aerospace, crypto and systems programming
 
