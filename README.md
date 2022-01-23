@@ -39,4 +39,4 @@ I'm a Developer, Independent and lifelong learner!
 
 ---
 
-<img align="left" alt="alemartinezz Github Stats" src="https://github-readme-stats.vercel.app/api?username=alemartinezz&show_icons=true&hide_border=true" />
+![alemartinezz Github Stats](https://github-readme-stats.vercel.app/api?username=alemartinezz&show_icons=true&theme=radical)
