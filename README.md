@@ -36,3 +36,7 @@ I'm a Developer, Independent and lifelong learner!
 <!-- BLOG-POST-LIST:START -->
 - [Set up Samba client on CentOS/RHEL 7 for file sharing on Windows.](https://dev.to/alemartinezz/set-up-samba-client-on-centosrhel-7-for-file-sharing-on-windows-3a9a)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+<img align="left" alt="alemartinezz Github Stats" src="https://github-readme-stats.vercel.app/api?username=alemartinezz&show_icons=true&hide_border=true" />
