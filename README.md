@@ -27,4 +27,5 @@
 <br />
 ### ✒️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Set up Samba client on CentOS/RHEL 7 for file sharing on Windows.](https://dev.to/alemartinezz/set-up-samba-client-on-centosrhel-7-for-file-sharing-on-windows-3a9a)
 <!-- BLOG-POST-LIST:END -->
