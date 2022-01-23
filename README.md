@@ -1,4 +1,4 @@
-### Hi there, I'm Alejandro - aka ... 👋
+### Hi there, I'm Alejandro 👋
 ## I'm a Developer, Independent and lifelong learner!
 - 🔭 I’m currently working on a cryptocurriencies exchange project [MiCrypto.uy](https://micrypto.uy/)
 - 🌱 I’m currently learning [Rust](https://github.com/alemartinezz?tab=repositories&q=rust&type=&language=&sort=) and [React](https://github.com/alemartinezz?tab=repositories&q=react&type=&language=&sort=)
