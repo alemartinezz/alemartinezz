@@ -25,6 +25,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
 <br />
+---
 ### ✒️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Set up Samba client on CentOS/RHEL 7 for file sharing on Windows.](https://dev.to/alemartinezz/set-up-samba-client-on-centosrhel-7-for-file-sharing-on-windows-3a9a)
