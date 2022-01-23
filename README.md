@@ -1,8 +1,5 @@
 ### Hi there, I'm Alejandro 👋
-[<img align="left" alt="alemartinezz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://linkedin.com/alemartinezz)
-[<img align="left" alt="alemartinezz | Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/chapochamade)
-[<img align="left" alt="alemartinezz | Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />](https://discordapp.com/users/alemartinezz#3909/)
-<br />
+
 <br />
 
 I'm a Developer, Independent and lifelong learner!
