@@ -17,7 +17,7 @@ I'm a Developer, Independent and lifelong learner!
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Rust" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />]()
+[<img align="left" alt="Rust" width="26px" src="http://rust-lang.org/logos/rust-logo-256x256.png" />]()
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />]()
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
