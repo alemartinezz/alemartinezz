@@ -1,12 +1,15 @@
 ### Hi there, I'm Alejandro 👋
-## I'm a Developer, Independent and lifelong learner!
-- 🔭 I’m currently working on a cryptocurriencies exchange project [MiCrypto.uy](https://micrypto.uy/)
-- 🌱 I’m currently learning [Rust](https://github.com/alemartinezz?tab=repositories&q=rust&type=&language=&sort=) and [React](https://github.com/alemartinezz?tab=repositories&q=react&type=&language=&sort=)
-- 🚀 Interested in aerospace and systems programming
-### Connect with me:
 [<img align="left" alt="alemartinezz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://linkedin.com/alemartinezz)
 [<img align="left" alt="alemartinezz | Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/chapochamade)
+
 <br />
+<br />
+
+I'm a Developer, Independent and lifelong learner!
+- 🔭 I’m currently working on a cryptocurriencies exchange project [MiCrypto.uy](https://micrypto.uy/)
+- 🌱 I’m currently learning [Rust](https://github.com/alemartinezz?tab=repositories&q=rust&type=&language=&sort=) and [React](https://github.com/alemartinezz?tab=repositories&q=react&type=&language=&sort=)
+- 🚀 Interested in aerospace, crypto and systems programming
+
 ### Languages and Tools:
 [<img align="left" alt="Rust" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />]()
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />]()
