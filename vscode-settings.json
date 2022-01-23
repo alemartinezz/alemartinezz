@@ -1,0 +1,78 @@
+{
+    "explorer.confirmDelete": false,
+    "explorer.openEditors.visible": 0,
+    "explorer.confirmDragAndDrop": false,
+    "[python]": {
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.wordWrapColumn": 80
+    },
+    "editor.fontSize": 15,
+    "editor.lineHeight": 27,
+    "editor.folding": true,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.lineNumbers": "on",
+    "editor.minimap.enabled": false,
+    "editor.occurrencesHighlight": false,
+    "editor.overviewRulerBorder": false,
+    "editor.renderIndentGuides": false,
+    "editor.suggestSelection": "first",
+    "workbench.activityBar.visible": true,
+    "workbench.editor.showIcons": true,
+    "workbench.statusBar.visible": true,
+    "workbench.colorTheme": "Andromeda Bordered",
+    "workbench.colorCustomizations": {
+        "terminal.background": "#000000",
+        "terminal.foreground": "#D0D0D0",
+        "terminalCursor.background": "#D0D0D0",
+        "terminalCursor.foreground": "#D0D0D0",
+        "terminal.ansiBlack": "#000000",
+        "terminal.ansiBlue": "#0066FF",
+        "terminal.ansiBrightBlack": "#808080",
+        "terminal.ansiBrightBlue": "#0066FF",
+        "terminal.ansiBrightCyan": "#00FFFF",
+        "terminal.ansiBrightGreen": "#33FF00",
+        "terminal.ansiBrightMagenta": "#CC00FF",
+        "terminal.ansiBrightRed": "#FF0000",
+        "terminal.ansiBrightWhite": "#FFFFFF",
+        "terminal.ansiBrightYellow": "#FF0099",
+        "terminal.ansiCyan": "#00FFFF",
+        "terminal.ansiGreen": "#33FF00",
+        "terminal.ansiMagenta": "#CC00FF",
+        "terminal.ansiRed": "#FF0000",
+        "terminal.ansiWhite": "#D0D0D0",
+        "terminal.ansiYellow": "#FF0099"
+    },
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "remote.SSH.remotePlatform": {
+        "python-linux-vm": "linux"
+    },
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "files.associations": {
+        // extension name : html
+        "ejs": "html",
+        "*.ejs": "html"
+    },
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?",
+    "html.format.templating": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.suggestSmartCommit": false,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "window.zoomLevel": 0,
+    "emmet.includeLanguages": {
+        "ejs": "html",
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "python.defaultInterpreterPath": "c:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "workbench.iconTheme": "vscode-icons"
+}
