@@ -30,3 +30,38 @@ source .zshrc
 
 ### vbox-config-ports
 ![vbox port config](./assets/vbox-ports.png)
+
+### Selinux
+```bash
+sudo nano /etc/sysconfig/selinux
+sudo nano /etc/selinux/semanage.conf
+
+# SELINUX = disabled
+# SELINUXTYPE = Targeted`
+````
+
+### firewalld
+```bash
+sudo apt install firewalld
+sudo systemctl enable firewalld
+sudo systemctl start firewalld
+```
+
+### firewall-cmd
+```bash
+sudo firewall-cmd --zone=public --permanent --add-port=8000/tcp
+sudo firewall-cmd --zone=public --permanent --add-port=5000/tcp
+sudo firewall-cmd --zone=public --permanent --add-port=8080/tcp
+sudo firewall-cmd --reload
+```
+
+### iptables
+```bash
+sudo apt install iptables-services
+systemctl enable iptables
+systemctl start iptables
+
+iptables -A INPUT -m state --state NEW -P tcp --dport 8000 ACCEPT
+iptables -A INPUT -m state --state NEW -P tcp --dport 5000 ACCEPT
+iptables -A INPUT -m state --state NEW -P tcp --dport 8080 ACCEPT
+```
