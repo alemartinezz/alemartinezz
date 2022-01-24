@@ -1,73 +1,90 @@
-**0. Installl**
+### 0. Installl
 
 `sudo pacman -S install samba
 sudo apt install samba -y`
 
-**1. adapt share path and set up config file**
-
-`sudo mkdir /opt/compartida
+### 1. adapt share path and set up config file
+```bash
+sudo mkdir /opt/compartida
 sudo nano /etc/samba/smb.conf
-testparm`
+testparm
+```
 
-**2. start service**
-
-`sudo systemctl enable smbd
+### 2. start service
+```bash
+sudo systemctl enable smbd
 sudo systemctl start smbd
 sudo systemctl enable nmbd
 sudo systemctl start nmbd
-
+```
+```bash
 sudo smbcontrol all reload-config
 sudo systemctl restart smbd nmbd`
+```
 
-****3. create user and add to smb group****
-
-`sudo groupadd efinanzas
+### 3. create user and add to smb group
+```
+sudo groupadd efinanzas
 sudo useradd ale
 sudo passwd ale
-sudo gpasswd -a ale efinanzas`
+sudo gpasswd -a ale efinanzas
+```
 
-****4. smb enable****
-
-`sudo passwd root
+### 4. smb enable
+```bash
+sudo passwd root
 su root
 smbpasswd -a ale
 smbpasswd -e ale
-cat /etc/group`
+cat /etc/group
+```
 
-****5. Folder's permission****
-
-`sudo mkdir /opt/compartida
+### 5. Folder's permission
+```bash
+sudo mkdir /opt/compartida
 sudo chmod -R 775 /opt/compartida
-sudo chgrp -R efinanzas /opt/compartida`
+sudo chgrp -R efinanzas /opt/compartida
+```
 
-****6. Connect****
+### 6. Connect
+```bash
+smb://hostname/share_folder/
+smbclient -L host
+```
 
-`smb://hostname/share_folder/
-smbclient -L host`
-
-****LOGS****
+**LOGS**
 
 `sudo cat /var/log/samba/smb.log`
 
-****Uninstall****
-
-`sudo apt remove --purge samba
+### Uninstall
+```bash
+sudo apt remove --purge samba
 find / -name "samba"
 sudo rm -rf /var/lib/samba
 sudo rm -rf /etc/samba
 sudo rm -rf /usr/share/samba
-sudo rm -rf /var/cache/samba`
+sudo rm -rf /var/cache/samba
+```
 
-`sudo apt-get remove --purge smbclient libsmbclient
-sudo apt-get install smbclient libsmbclient`
+```bash
+sudo apt-get remove --purge smbclient libsmbclient
+sudo apt-get install smbclient libsmbclient
+```
 
 **in Arch**
-`sudo yaourt -Rcns samba -y`
+```bash
+sudo yaourt -Rcns samba -y
+```
 
 **errors**
 
 1. user not foundreiniciar servicio cifs / reiniciar pc ?
 2. failed to retrieve share list from server invalid argument // Couldn't find user in passdbsu rootsmbpasswd -a chapo
+
+## Config file
+```bash
+sudo nano /etc/samba/smb.conf
+```
 
 ```bash
 [global]
