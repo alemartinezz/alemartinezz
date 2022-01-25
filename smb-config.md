@@ -1,7 +1,8 @@
 ### 0. Installl
-
-`sudo pacman -S install samba
-sudo apt install samba -y`
+```bash
+sudo pacman -S install samba
+sudo apt install samba -y
+```
 
 ### 1. adapt share path and set up config file
 ```bash
