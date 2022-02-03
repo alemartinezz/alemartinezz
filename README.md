@@ -42,7 +42,6 @@ I'm a Developer, Independent and lifelong learner!
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-![alemartinezz Github Stats](https://github-readme-stats.vercel.app/api?username=alemartinezz&show_icons=true&hide_border=true&count_private=true&theme=swift)
+<span style="display:grid;grid-template-columns: repeat(auto-fit, minmax(50%, 1fr));grid-gap: 2em;"><span>![alemartinezz Github Stats](https://github-readme-stats.vercel.app/api?username=alemartinezz&show_icons=true&hide_border=true&count_private=true&theme=swift)</span><span style="display:flex;align-items:flex-start;">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemartinezz&langs_count=8&hide=CSS,HTML&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</span></span>
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemartinezz&langs_count=8&hide=CSS,HTML&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
