@@ -6,7 +6,11 @@
         "editor.wordWrap": "wordWrapColumn",
         "editor.wordWrapColumn": 80
     },
-    "editor.fontSize": 15,
+    "html.hover.documentation": false,
+    "html.hover.references": false,
+    "css.hover.documentation": false,
+    "css.hover.references": false,
+    "editor.fontSize": 14,
     "editor.lineHeight": 27,
     "editor.folding": true,
     "editor.hideCursorInOverviewRuler": true,
@@ -14,12 +18,11 @@
     "editor.minimap.enabled": false,
     "editor.occurrencesHighlight": false,
     "editor.overviewRulerBorder": false,
-    "editor.renderIndentGuides": false,
     "editor.suggestSelection": "first",
     "workbench.activityBar.visible": true,
     "workbench.editor.showIcons": true,
     "workbench.statusBar.visible": true,
-    "workbench.colorTheme": "Andromeda Bordered",
+    "workbench.colorTheme": "Andromeda Italic",
     "workbench.colorCustomizations": {
         "terminal.background": "#000000",
         "terminal.foreground": "#D0D0D0",
@@ -65,14 +68,14 @@
     "html.format.templating": true,
     "liveServer.settings.donotShowInfoMsg": true,
     "git.suggestSmartCommit": false,
-    "bracket-pair-colorizer-2.depreciation-notice": false,
-    "window.zoomLevel": 0,
+    "workbench.iconTheme": "vscode-icons",
     "emmet.includeLanguages": {
         "ejs": "html",
     },
     "[html]": {
         "editor.defaultFormatter": "vscode.html-language-features"
     },
-    "python.defaultInterpreterPath": "c:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
-    "workbench.iconTheme": "vscode-icons"
+    "scss.hover.references": false,
+    "less.hover.references": false,
+    "terminal.integrated.defaultProfile.windows": "Git Bash"
 }
