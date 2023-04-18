@@ -21,3 +21,4 @@
 
 ### Recent articles:
 - [Zsh + Powerlevel10k + Auto suggestions + Themes 🚀📈](https://medium.com/@alemartinezz/zsh-powerlevel10k-auto-suggestions-themes-12269329daa7)
+- [Ubuntu Server Configuration (AWS) for Fullstack Nanodegree program](https://medium.com/@alemartinezz/ubuntu-server-configuration-3aca1d6499d2)
