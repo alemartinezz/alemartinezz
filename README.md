@@ -20,6 +20,7 @@
 ![Shell Script](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Recent articles:
+- [How to run redis on Windows 📚](https://medium.com/@alemartinezz/how-to-run-redis-on-windows-4a269badda)
 - [PM2 (Process Manager for Node) 🔄](https://medium.com/@alemartinezz/pm2-4b22a0019650)
 - [Zsh + Powerlevel10k + Auto suggestions + Themes 🚀📈](https://medium.com/@alemartinezz/zsh-powerlevel10k-auto-suggestions-themes-12269329daa7)
 - [Configure Reverse Proxy for NGINX 🌎](https://medium.com/@alemartinezz/configure-reverse-proxy-on-nginx-8d2988b1af50)
