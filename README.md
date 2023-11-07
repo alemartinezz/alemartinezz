@@ -1,7 +1,7 @@
 ## Ale Martinez — @alemartinezz
 
 - 👋🏻 I am a Software Engineer, focused on server side development, with passion for science. 
-- 💬 Feel free to [email](mailto:martinezcornes@icloud.com) or message me on [LinkedIn](https://www.linkedin.com/in/alemartinezz/).
+- 💬 Feel free to [email](mailto:alejandromartinezcornes@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/alemartinezz/).
 
 ## 💻 Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
