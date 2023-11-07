@@ -3,10 +3,6 @@
 - 👋🏻 I am a Software Engineer, focused on server side development, with passion for science. 
 - 💬 Feel free to [email](mailto:martinezcornes@icloud.com) or message me on [LinkedIn](https://www.linkedin.com/in/alemartinezz/).
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alemartinezz___)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alemartinezz)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alemartinezz___) 
-
 ## 💻 Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
