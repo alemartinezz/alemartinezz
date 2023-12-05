@@ -1,6 +1,6 @@
 ## Ale Martinez — @alemartinezz
 
-- 👋🏻 I am a Software Engineer, focused on server side development, with passion for science. 
+- 👋🏻 I am a Software Engineer with 4+ years of experience, focused on server side development, with passion for science. 
 - 💬 Feel free to [email](mailto:alejandromartinezcornes@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/alemartinezz/). Check my [Medium](https://medium.com/@alemartinezz) profile.
 
 ## 💻 Tech Stack
