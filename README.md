@@ -15,7 +15,7 @@
 ![Nest.js](https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Recent articles:
-- [Rust Axum API - Multi tenancy 🦀](https://medium.com/@alemartinezz/api-error-handling-nodejs-bdcf17e84b98)
+- [Rust Axum API - Multi tenancy 🦀](https://www.linkedin.com/posts/alemartinezz_rust-api-axum-activity-7335776266597326849-9QzU?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABfZLRkBx3wuwkXH11iSmJC6Sdy4AldK7Zo)
 - [API Error handling with NodeJS & ExpressJS ❌](https://medium.com/@alemartinezz/api-error-handling-nodejs-bdcf17e84b98)
 - [How to run redis on Windows 📚](https://medium.com/@alemartinezz/how-to-run-redis-on-windows-4a269badda)
 - [PM2 (Process Manager for Node) 🔄](https://medium.com/@alemartinezz/pm2-4b22a0019650)
